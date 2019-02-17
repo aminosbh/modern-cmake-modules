@@ -4,7 +4,7 @@ This repository contains modern [CMake][] modules (With imported targets) for
 finding and using some libraries:
 
 - [LibVNCServer/LibVNCClient][LibVNC]: `VNC::Server` and `VNC::Client`
-- SDL2: See [&lt;README&gt][SDL2 README.md] for details:
+- SDL2: See [&lt;README&gt;][SDL2 README.md] for details:
   - [SDL2][]: `SDL2::Core and SDL2::Main`
   - [SDL2_image][]: `SDL2::Image`
   - [SDL2_ttf][]: `SDL2::TTF`
